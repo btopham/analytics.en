@@ -76,8 +76,8 @@ if(s.pageName) s.getPageLoadTime();
 if(s._pltPreviousPage)
 {
   s.prop10 = s._pltLoadTime;
-  s.prop11 = s._pltPreviousPage
-  s.eVar10 = prop11;
+  s.prop11 = s._pltPreviousPage;
+  s.eVar10 = s.prop11;
   s.events = "event100=" + s._pltLoadTime;
 }
 ```
