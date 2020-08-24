@@ -16,6 +16,8 @@ Non-classified keys are grouped together in classification reports as a single l
 
 For example, suppose your tracking codes contain information that delineates the type of mobile campaign the tracking code is associated with. You are using classification (Mobile Campaign Type) to group these tracking codes into categories such as Mobile Web, iOS Application, Android Application, and so on. Some campaigns might not be mobile campaigns and are therefore not classified with a mobile campaign type. All non-classified tracking codes would be grouped under *`None`* in the [!UICONTROL Mobile Campaign Type] report.
 
+NOTE: Data Warehouse does not support this Classifing of 'None/Unspecified'.
+
 ## Rename the None classification key {#task_8CD595DA82AA44D08CEF002B588C3C30}
 
 <!-- 
