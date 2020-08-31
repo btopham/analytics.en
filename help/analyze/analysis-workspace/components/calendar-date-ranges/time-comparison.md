@@ -91,5 +91,9 @@ Example: When you choose to align the dates, if you do a month-over-month compar
 
 <p>See Jonny Moon's email from November 3. </p>
 
+>[!IMPORTANT]
+>
+>This feature relies on 'Advanced Calculated Metrics' feature access.
+
  -->
 
